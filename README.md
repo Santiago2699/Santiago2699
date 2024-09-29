@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hello, I'm Santi!
 
-<!--
-**Santiago2699/Santiago2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student** at **Universidade da Coruña (UDC)**  
+💼 **Product Development Trainee** at **Denodo**  
+🍴 **Chef** with a passion for cooking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate software engineering student with a deep interest in **full-stack development**. Currently, I'm sharpening my skills as a product development trainee at **Denodo**, where I get hands-on experience building cutting-edge solutions.
+
+When I'm not coding, you might find me in the kitchen experimenting with new recipes and exploring the art of gastronomy. Balancing the worlds of technology and culinary arts fuels my creativity and curiosity!
+
+## 🔧 Tech Stack
+
+- **Languages:**  Java, Python, JavaScript and a little bit of Elixir
+- **Front-End:** React, Bootstrap, HTML/CSS
+- **Back-End:** Spring, SQL
+- **Tools & Platforms:** Git
+
+## 🌱 What I'm Learning
+
+I’m currently diving deeper into **full-stack web development**, exploring both client and server-side technologies, while continuously improving my problem-solving and product design skills.
+
+## 🎯 Goals
+
+- Become a proficient full-stack developer
+- Blend my love for software and culinary arts into a unique project one day!
+
+## 💬 Let's Connect!
+
+- [LinkedIn](www.linkedin.com/in/santiago-alfredo-castro-rampersad-863685209)
+
