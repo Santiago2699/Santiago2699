@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Santi!
 
 🎓 **Software Engineering Student** at **Universidade da Coruña (UDC)**  
-💼 **Product Development Trainee** at **Denodo**  
+💼 **Product Developer** at **Denodo**  
 🍴 **Chef** with a passion for cooking
 
 ---
